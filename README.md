@@ -1,10 +1,15 @@
                        1. Challenges 
                                      \
-                     2. Knowledge -> 4. Communication -> Memberships -> Accomplishments
+                     2. Knowledge -> 4. Communication -> ${5. Memberships} -> 6. Accomplishments
                                      /
                                      3. Skills
 
-                           * Team/Network/Leadership/Decisions
+                           ${5} Team/Network/Leadership/Decisions
+                           ${3} Challenges/Knowledge/Skills
+
+                ${3. Inidividual} -> 4. Communication -> 5. Memberships -> 6. Accomplishments
+                             
+                           
 
 > This Markdown document preserves the structure and content of the original PDF, making it suitable for rendering in any Markdown-supported environment. -- *GPT 4o*
 
