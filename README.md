@@ -1,10 +1,11 @@
+
                 1. Inidivual/Passion/Challenges
                                                \
                                                 2. Knowledge -> 4. Communication -> Team/Network/Leadership/Decisions/Feedback/Professionalism -> 6. Accomplishments/Exceptional
                                                /
                                                3. Technical/Skills/Abilities
 
-> This Markdown document preserves the structure and content of the original PDF, making it suitable for rendering in any Markdown-supported environment. -- *GPT 4o*
+> This Markdown document [preserves](https://github.com/abikesa/flying) the structure and content of the original PDF, making it suitable for rendering in any Markdown-supported environment. -- *GPT 4o*
 
 # Writing Letters of Recommendation: Best Practices
 
