@@ -1,6 +1,6 @@
                        1. Challenges 
                                      \
-                     2. Knowledge -> 4. Communication -> Teamwork -> Decisions -> Accomplishments
+                     2. Knowledge -> 4. Communication -> Team/Network -> Decisions -> Accomplishments
                                      /
                                      3. Skills
 
