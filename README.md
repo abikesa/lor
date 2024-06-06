@@ -1,14 +1,8 @@
-                1. Challenges/Passion 
-                                     \
-                     2. Knowledge -> 4. Communication -> ${5. Memberships} -> 6. Accomplishments
-                                     /
-                                     3. Skills
-
-                           ${5} Team/Network/Leadership/Decisions/Feedback/Professionalism
-                        
-                ${3. Inidividual} -> 4. Communication -> ${5. Memberships} -> 6. Accomplishments
-                             
-                           ${3} Challenges/Knowledge/Skills
+                1. Inidivual/Passion/Challenges
+                                               \
+                                                2. Knowledge -> 4. Communication -> Team/Network/Leadership/Decisions/Feedback/Professionalism -> 6. Accomplishments/Exceptional
+                                               /
+                                               3. Technical/Skills/Abilities
 
 > This Markdown document preserves the structure and content of the original PDF, making it suitable for rendering in any Markdown-supported environment. -- *GPT 4o*
 
