@@ -4,7 +4,7 @@
                                      /
                                      3. Skills
 
-                           ${5} Team/Network/Leadership/Decisions
+                           ${5} Team/Network/Leadership/Decisions/Feedback/Professionalism
                         
                 ${3. Inidividual} -> 4. Communication -> ${5. Memberships} -> 6. Accomplishments
                              
