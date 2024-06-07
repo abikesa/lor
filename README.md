@@ -1,3 +1,4 @@
+> [Graph Theory](https://abikesa.github.io/graphtheory/) as a basis of these recommendations
 
                 1. Inidivual/Passion/Challenges
                                                \
