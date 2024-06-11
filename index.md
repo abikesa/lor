@@ -1,4 +1,4 @@
-![](frontier.png)
+![](https://abikesa.github.io/music/frontier.png)
 
                             1. Root
                                    \
