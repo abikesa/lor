@@ -1,10 +1,11 @@
+![](https://jhustata.github.io/basic/_images/931e5210b5af8aebf9a0ddf56abccf41d6a44d371877c6f1d6db6a58d81cef4d.png)
 ![](https://abikesa.github.io/music/frontier.png)
 
-                            1. Root
-                                   \
-                  2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
-                                   /
-                                   3. Diatonic
+                            1. Challenges
+                                         \
+                            2. Skills -> 4. Interaction -> 5. Leadership -> 6. Dominance
+                                         /
+                                         3. Tools
 
 
 ### Dionysus/Personal 1, 2, 3 
