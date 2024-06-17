@@ -1,4 +1,4 @@
-![](https://jhustata.github.io/basic/_images/931e5210b5af8aebf9a0ddf56abccf41d6a44d371877c6f1d6db6a58d81cef4d.png)
+![](https://abikesa.github.io/music/frontier.png)
 
 
                             1. Challenges
@@ -8,14 +8,14 @@
                                          3. Tools
 
 
-### Dionysus/Personal 1, 2, 3 
-   - A♭ Maj: Jackson 5, F min: New Edition, C Maj: Beyoncé (`Root, 3rd, 5th, ♭♭7, 9th`)
+### Personal 1, 2, 3 :: `Root, 3rd, 5th, ♭♭7, 9th` 
+   - Comedy
 
-### Existential/Sing O Muse 4  
-   - Requem Mass: Lacrimosa (`11th, 13th`)
+### Interpersonal O Muse 4  :: `11th, 13th`
+   - [Tragedy](https://abikesa.github.io/henryv/)
      
-### Apollo/Social 5, 6 
-   - Mýa, This 1 Thing (`♭9,♯9,♯11,♭13`)
+### Group 5, 6 :: `♭9,♯9,♯11,♭13`
+   - History
  
    
 
