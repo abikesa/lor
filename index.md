@@ -11,7 +11,7 @@
 ### Personal 1, 2, 3 :: `Root, 3rd, 5th, ♭♭7, 9th` 
    - Comedy
 
-### Interpersonal [Sing]((https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism#3)) O Muse 4  :: `11th, 13th`
+### Interpersonal [Sing](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism#3) O Muse 4  :: `11th, 13th`
    - [Tragedy](https://abikesa.github.io/henryv/)
      
 ### Group 5, 6 :: `♭9,♯9,♯11,♭13`
